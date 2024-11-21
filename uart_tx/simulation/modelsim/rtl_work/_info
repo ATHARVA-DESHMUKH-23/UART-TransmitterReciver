@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ramdas/Documents/t2a_uart/uart_tx/simulation/modelsim
+vtb
+!s110 1729761649
+!i10b 1
+!s100 `H_WkGW2]k`1c^71TY0a=3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I65U8mPMEiFi[o@M:Bo7n=3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1726143392
+8/home/ramdas/Documents/t2a_uart/uart_tx/.test/tb.v
+F/home/ramdas/Documents/t2a_uart/uart_tx/.test/tb.v
+!i122 1
+L0 3 131
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1729761648.000000
+!s107 /home/ramdas/Documents/t2a_uart/uart_tx/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ramdas/Documents/t2a_uart/uart_tx/.test|/home/ramdas/Documents/t2a_uart/uart_tx/.test/tb.v|
+!i113 1
+Z5 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+/home/ramdas/Documents/t2a_uart/uart_tx/.test
+Z6 tCvgOpt 0
+vuart_tx
+!s110 1729761648
+!i10b 1
+!s100 3GJ[NjD<U0Mc1jCGc=`Kj0
+R1
+Ig]cFcSaYOM;clzbcQQJ?00
+R2
+R0
+w1726748596
+8/home/ramdas/Documents/t2a_uart/uart_tx/code/uart_tx.v
+F/home/ramdas/Documents/t2a_uart/uart_tx/code/uart_tx.v
+!i122 0
+L0 29 19
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/ramdas/Documents/t2a_uart/uart_tx/code/uart_tx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ramdas/Documents/t2a_uart/uart_tx/code|/home/ramdas/Documents/t2a_uart/uart_tx/code/uart_tx.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+/home/ramdas/Documents/t2a_uart/uart_tx/code
+R6
